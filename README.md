@@ -1,3 +1,3 @@
 # ejercicio2
-# ejercicio22
+# ejercicio1
 # ejercicio3
